@@ -1,4 +1,4 @@
-### Please provide you version information :
+### Please provide your version information :
 Dependency      |Version
 ----------------|-------
 ionic2          | 
@@ -7,5 +7,5 @@ ionic-img-viewer|
 
 ### Have you checked...
 - [ ] That npm install returns no warning ?
-- [ ] Doing a purge of your node_modules folder ?
+- [ ] If doing a purge of your node_modules folder fixes the problem ?
 
